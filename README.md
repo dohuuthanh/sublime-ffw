@@ -1,9 +1,9 @@
 sublime-FFW
 ==============
 
-Script to setup a Sublime Text 3 editor for Drupal Front End (Linux)
+Script to setup a Sublime Text 3 editor for FFW Front End (Linux)
 
-<p>The installer include plugins and settings to configure the environment in order to speed up the Drupal Front End process.</p>
+<p>The installer include plugins and settings to configure the environment in order to speed up the FFW Front End process.</p>
 
 <h2>Plugins Included</h2>
 
@@ -15,12 +15,10 @@ Script to setup a Sublime Text 3 editor for Drupal Front End (Linux)
   <li><a href="https://github.com/nathos/sass-textmate-bundle">SASS</a></li>
   <li><a href="https://github.com/SublimeLinter/SublimeLinter">SublimeLinter</a></li>
   <li><a href="https://github.com/attenzione/SublimeLinter-scss-lint">SublimeLinter scss</a></li>
-  <li><a href="https://github.com/SublimeLinter/SublimeLinter-jshint">SublimeLinter-jshint</a></li>
+  <li><a href="https://github.com/SublimeLinter/SublimeLinter-jshint">SublimeLinter jshint</a></li>
   <li><a href="https://github.com/wbond/sublime_terminal/">Terminal</a></li>
   <li><a href="https://github.com/purplefish32/sublime-text-2-twig">Twig</a></li>
 </ul>
-
-<p><strong> * </strong>= Only available for MacOSX</p>
 
 <h3>Installer requirements</h3>
 <p>After save a JS file a validation is executed using JSLint, JSLint needs <a href="http://nodejs.org/">Node.JS/</a> installed on your system.</p>
