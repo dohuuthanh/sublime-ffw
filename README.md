@@ -47,3 +47,12 @@ Script to setup a Sublime Text 3 editor for FFW Front End (Linux)
   <ul>
     <li>./SublimeFFW.sh</li>
   </ul>
+
+<h2>Support</h2>
+
+<ul>
+  <li>All text files will end in a single newline (\n).</li>
+  <li>Auto convert tabs -> spaces when save files</li>
+  <li>Auto delete void end of each line</li>
+  <li>Alert massage when file errors</li>
+</ul>
